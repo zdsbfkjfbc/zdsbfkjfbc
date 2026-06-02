@@ -1,39 +1,43 @@
-# Olá, eu sou o Vinícius Paes Landim Ramos 👋
-
-Sou **Desenvolvedor de Business Intelligence e Engenheiro de Dados**, focado em resolver problemas complexos de dados de ponta a ponta: desde a extração com queries SQL complexas, passando pela automação e controle de pipelines eficientes, até a modelagem escalável para entregar painéis rápidos e de alto impacto.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-003B5C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CE2?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
+# 🕹️ FLAPPY BIRD ARCADE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=nord" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=nord" alt="Linguagens Mais Usadas" width="48%" />
+  <!-- Tela Principal do Jogo (Gera o frame atual via API) -->
+  <img src="https://img.shields.io/badge/SCORE-000000?style=for-the-badge&logo=game-and-watch&logoColor=green" alt="Score" />
 </p>
 
----
+<p align="center">
+  <samp>
+    +--------------------------------------------+<br>
+    |                                            |<br>
+    |      ||            ||                      |<br>
+    |      ||            ||                      |<br>
+    |      ||            ||                      |<br>
+    |      \/            \/                      |<br>
+    |         (°)#                               |<br>
+    |                                            |<br>
+    |                    /\                      |<br>
+    |                    ||                      |<br>
+    |      /\            ||                      |<br>
+    |      ||            ||                      |<br>
+    +--------------------------------------------+<br>
+  </samp>
+</p>
 
-## 🎮 Easter Egg: Hora do Café ☕
-
-Precisa de uma pausa enquanto os dados carregam? Jogue uma partida de **Flappy Bird** direto no navegador clicando no botão abaixo!
+<h3 align="center">CONTROLES</h3>
 
 <p align="center">
-  <a href="https://nebez.github.io/floppybird/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%90%A6%20JOGAR%20FLAPPY%20BIRD-4CAF50?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="Jogar Flappy Bird" size="large" />
+  <!-- Substitua SEU_USUARIO pelo seu login para conectar à sua API de controle -->
+  <a href="https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?title=game-command:jump">
+    <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F%20PULAR%20%5BCLICK%5D-4CAF50?style=for-the-badge&logo=target" alt="Jump" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?title=game-command:start">
+    <img src="https://img.shields.io/badge/%F0%9F%94%84%20RECOMEN%C3%87AR-FF5722?style=for-the-badge&logo=loop" alt="Restart" />
   </a>
 </p>
 
+---
+
 <p align="center">
-  <sub><i>Nota: O jogo abrirá em uma nova aba para não quebrar sua navegação no GitHub.</i></sub>
+  <sub>Criado dinamicamente usando automação de ambiente baseado no conceito de componentes dinâmicos de repositórios como zdsbfkjfbc/zdsbfkjfbc.</sub>
 </p>
