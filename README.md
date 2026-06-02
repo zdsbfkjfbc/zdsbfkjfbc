@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
 <div align="center">
-  <img src="https://media.tenor.com/10744135456797632802/grimmjow-hollow-jump.gif" width="300"/>
+  <img src="assets/grimmjow.gif" width="300"/>
 </div>
 
 <br/>
