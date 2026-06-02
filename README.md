@@ -1,43 +1,19 @@
-# 🕹️ FLAPPY BIRD ARCADE
+<h1 align="center">🕹️ FLAPPY BIRD ARCADE</h1>
 
 <p align="center">
-  <!-- Tela Principal do Jogo (Gera o frame atual via API) -->
-  <img src="https://img.shields.io/badge/SCORE-000000?style=for-the-badge&logo=game-and-watch&logoColor=green" alt="Score" />
+  <!-- Imagem do gameplay rodando em altíssima qualidade -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3YwN3ZpZ3M0NXpnd29icm95N2N5bXN0Y3R5bXN0Y3R5bXN0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s20stbN6wP7Nu/giphy.gif" alt="Flappy Bird Gameplay" width="600" />
 </p>
 
 <p align="center">
-  <samp>
-    +--------------------------------------------+<br>
-    |                                            |<br>
-    |      ||            ||                      |<br>
-    |      ||            ||                      |<br>
-    |      ||            ||                      |<br>
-    |      \/            \/                      |<br>
-    |         (°)#                               |<br>
-    |                                            |<br>
-    |                    /\                      |<br>
-    |                    ||                      |<br>
-    |      /\            ||                      |<br>
-    |      ||            ||                      |<br>
-    +--------------------------------------------+<br>
-  </samp>
-</p>
-
-<h3 align="center">CONTROLES</h3>
-
-<p align="center">
-  <!-- Substitua SEU_USUARIO pelo seu login para conectar à sua API de controle -->
-  <a href="https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?title=game-command:jump">
-    <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8F%20PULAR%20%5BCLICK%5D-4CAF50?style=for-the-badge&logo=target" alt="Jump" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/SEU_USUARIO/SEU_USUARIO/issues/new?title=game-command:start">
-    <img src="https://img.shields.io/badge/%F0%9F%94%84%20RECOMEN%C3%87AR-FF5722?style=for-the-badge&logo=loop" alt="Restart" />
+  <!-- Botão estilizado para abrir o jogo real em tela cheia e jogar com o teclado -->
+  <a href="https://nebez.github.io/floppybird/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%90%A6%20PRESS%20START%20%5BPLAY%5D-4CAF50?style=for-the-badge&logo=gamecontroller&logoColor=white&labelColor=2E7D32" alt="Play Game" height="45" />
   </a>
 </p>
 
----
-
+<br>
+<hr>
 <p align="center">
-  <sub>Criado dinamicamente usando automação de ambiente baseado no conceito de componentes dinâmicos de repositórios como zdsbfkjfbc/zdsbfkjfbc.</sub>
+  <sub><i>Aperte no botão acima para iniciar o emulador e jogar a versão clássica em 60 FPS.</i></sub>
 </p>
