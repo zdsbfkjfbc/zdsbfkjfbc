@@ -5,13 +5,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&lines=░░░+WELCOME+TO+MY+LAIR+—+HUECO+MUNDO+SECTOR+6+░░░" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&text=░░░%20WELCOME%20TO%20MY%20LAIR%20—%20HUECO%20MUNDO%20SECTOR%206%20░░░&fontColor=1E90FF&fontSize=13&fontFamily=monospace&animation=fadeIn&width=600" width="600" alt="banner"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=l4nndim;building+from+the+void.;one+commit+at+a+time." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=l4nndim;building+from+the+void.;one+commit+at+a+time." alt="typing"/>
 </div>
 
 <br/><br/>
