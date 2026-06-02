@@ -25,32 +25,60 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ Projeto 01</h3>
-      <p>Descrição do projeto aqui.</p>
-      <a href="#">
+      <h3>⚡ autorizador-de-transacao</h3>
+      <p>Motor de autorização de transações financeiras em Python puro com TDD</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/autorizador-de-transacao">
         <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
       </a>
     </td>
     <td width="50%">
-      <h3>⚡ Projeto 02</h3>
-      <p>Descrição do projeto aqui.</p>
-      <a href="#">
+      <h3>⚡ api_transacoes</h3>
+      <p>API de Transações com Clean Arch e Docker</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/api_transacoes">
         <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>⚡ Projeto 03</h3>
-      <p>Descrição do projeto aqui.</p>
-      <a href="#">
+      <h3>⚡ pix-token-orchestrator</h3>
+      <p>Orquestrador de Pagamentos PIX</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/pix-token-orchestrator">
         <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
       </a>
     </td>
     <td width="50%">
-      <h3>⚡ Projeto 04</h3>
-      <p>Descrição do projeto aqui.</p>
-      <a href="#">
+      <h3>⚡ hoop-stats</h3>
+      <p>Estatísticas de basquete com TypeScript</p>
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/hoop-stats">
+        <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ minicrm</h3>
+      <p>Mini CRM em Python</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/minicrm">
+        <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>⚡ teste-tecnico-qa-4blue</h3>
+      <p>Teste técnico de QA</p>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=1E90FF"/>
+      <br/><br/>
+      <a href="https://github.com/zdsbfkjfbc/teste-tecnico-qa-4blue">
         <img src="https://img.shields.io/badge/ver_repositório-0d1117?style=for-the-badge&logo=github&logoColor=1E90FF&color=0d1117"/>
       </a>
     </td>
