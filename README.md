@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/grimmjow.gif" width="480"/>
+
+![grimmjow](./assets/grimmjow.gif)
+
 </div>
 
 <br/>
