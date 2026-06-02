@@ -1,20 +1,36 @@
-<h1 align="center">🕹️ FLAPPY BIRD PROFILE EDITION</h1>
-
 <p align="center">
-  <!-- Tela do jogo centralizada -->
-  <img src="https://media.giphy.com/media/s20stbN6wP7Nu/giphy.gif" alt="Flappy Bird Gameplay" width="550" />
+<pre>
+ ░░░░░░░░░░░░▄▄▀▀▀▀▀▀▄▄░░░░░░░░░░    █▀▀█ █░░ █▀▀█ ░░ █▀▀█ █▀▀ █▀▄▀█ ░░ █░░█ ░▀░ █▀▀▄ █▀▀▄ █▀▀█ 
+ ░░░░░░░░░░▄▀░░░░░░░░░░▀▄░░░░░░░░    █░░█ █░░ █▄▄█ ░░ █▀▀▄ █▀▀ █░▀░█ ░░ ▀▄▀█ ▀█▀ █░░█ █░░█ █░░█ 
+ ░░░░░░░░░█░░░░░░░░░░░░░░█░░░░░░░    ▀▀▀▀ ▀▀▀ ▀░░▀ ░░ ▀▀▀▀ ▀▀▀ ▀░░░▀ ░░ ▄▄▀█ ▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀▀ 
+ ░░░░░░░░█░░░░░▄▄▄▄▄░░░░░░█░░░░░░
+ ░░░░░░░░█░░░░█▀░░░▀▀█░░░░█░░░░░░    ▒█▀▀▀█ ▒█▄░▒█ ▒█▀▀▀█ ▒█▀▀▀█ ▀█▀ ▒█▀▀▀█ ▒█▀▀▄ ▒█▀▀▀█ 
+ ▒▒▒▒▒▒▒▒█░░░░█░░░░░░█░░░░█▒▒▒▒▒▒    ▒█░░▒█ ▒█▒█▒█ ▒█░░▒█ ▒█░░▒█ ▒█░ ▒█░░▒█ ▒█░▒█ ▒█░░▒█ 
+ ▒▒▒▒▒▒▒▒█░░░░▀█▄▄▄▄█▀░░░░█▒▒▒▒▒▒    ▒█▄▄▄█ ▒█░░▀█ ▒█▄▄▄█ ▒█▄▄▄█ ▄█▄ ▒█▄▄▄█ ▒█▄▄▀ ▒█▄▄▄█ 
+ ▒▒▒▒▒▒▒▒░▀▄░░░░░░░░░░░░▄▀▒▒▒▒▒▒▒
+ ▒▒▒▒▒▒▒▒░░░▀▄▄▄▄▄▄▄▄▄▄▀░░▒▒▒▒▒▒▒
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+ ░░████████████████████████████░░
+ ░░██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██░░
+ ░░██▒▒▒▒▒▒▒▒▒▄▄▄▄▄▒▒▒▒▒▒▒▒▒▒██░░   [█▀█ █░█ █░░ █▀█ █▀█ ]  -> Use [Espaço] para pular
+ ░░██▒▒▒▒▒▒▒▒█▀░░░▀█▒▒▒▒▒▒▒▒▒██░░   [█▀▀ █▄█ █▄▄ █▀█ █▄█ ]  -> Desvie dos canos!
+ ░░███████████▄▄▄▄▄████████████░░
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+</pre>
 </p>
 
+---
+
 <p align="center">
-  <!-- Botão Arcade para jogar de verdade em uma nova aba -->
+  <!-- Botão estilo Arcade para jogar de verdade -->
   <a href="https://nebez.github.io/floppybird/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%94%B9%20PRESS%20START%20%5BPLAY%5D-4CAF50?style=for-the-badge&logo=gamecontroller&logoColor=white" alt="Play" height="40" />
+    <img src="https://img.shields.io/badge/%F0%9F%90%A6%20INICIAR%20FLAPPIER%20JOGOR-000000?style=for-the-badge&logo=gamecontroller&logoColor=61dafb&labelColor=1c1c1c" alt="Jogar Flappy Bird" height="40" />
   </a>
 </p>
 
-<!-- Linha sutil separando o jogo do rodapé -->
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+<br>
 
 <p align="center">
-  <sub style="color: #666;">Inspirado em componentes dinâmicos de repositórios como zdsbfkjfbc/zdsbfkjfbc.</sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" width="48%" />
 </p>
